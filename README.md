@@ -15,5 +15,11 @@ Software
     -/dynclk: Contains the functions that set up the video timing controller. 
     -/images: Contains the helper functions that initialize the game image.
       -images.h Contains the game image converted to C code.
+Documents
+  -/docs: Contains project related documents.
+    -Final Report.pptx: Presentation slides for the final design.
+    -Mid Project Report.pptx: Presentation slides for mid-project demo.
+    -Project Proposal.pptx:  Presentation slides for the  proposal.
+    -Final Report.docx: Final report for the design
 
   
